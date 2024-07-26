@@ -1,1 +1,3 @@
-
+THE FACIAL RECOGNITION project is specifically trauined for my face, and 2 faces from famous series BREAKING BAD, those are Heisenberg and Guss, 
+u can search their images online and AI model would easily be able to detect them. 
+The accuracy of this model isnt the best so u may have difficulty showing their photo to your webcam, but with some adjustments, it would detect them...
